@@ -153,13 +153,13 @@
     background-color: transparent;
 }
 
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 430px) {
     .pokemons {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media screen and (min-width: 576px) {
+@media screen and (min-width: 618px) {
     .pokemons {
         grid-template-columns: 1fr 1fr 1fr;
     }

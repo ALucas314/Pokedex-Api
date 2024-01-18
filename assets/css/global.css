@@ -42,10 +42,10 @@ img {
     }
 
     .content {
-        max-width: 100%;
+        max-width: 80%;
         border-radius: 1rem;
         margin: 1rem auto;
-        background-image: url('/img/background.png');
+        background-color: rgba(255, 255, 255, 0.363);
         height: auto; /* Alterado para 'auto' para ajustar automaticamente à altura do conteúdo */
     }
 }
