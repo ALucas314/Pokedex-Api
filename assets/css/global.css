@@ -23,7 +23,7 @@ img {
     width: 100vw;
     padding: 1rem;
     background-color: rgba(255, 255, 255, 0.5);
-    background-attachment: fixed; /* Keep the background image static */
+    background-attachment: fixed; /* Mantenha a imagem de fundo estática */
 }
 
 @media screen and (min-width: 300px) and (max-width: 991px) {
@@ -43,10 +43,10 @@ img {
 
     .content {
         max-width: 100%;
-        max-height: 100rem;
         border-radius: 1rem;
         margin: 1rem auto;
         background-image: url('/img/background.png');
+        height: auto; /* Alterado para 'auto' para ajustar automaticamente à altura do conteúdo */
     }
 }
 
