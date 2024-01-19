@@ -38,5 +38,5 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
 ## 🚀 Link do site copie e cole no navegador!
 
 ```
-https://pokedex-search-six.vercel.app/
+https://pokedex-api-lyart.vercel.app/
 ```
